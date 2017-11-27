@@ -6,15 +6,15 @@ Q. ggrks BOTって何？
 
 A. ググってください。
 
-Q. いいえ
+Q. いやだ
 
 A. いいからググってください。
 
-Q. いいえ
+Q. いやだ
 
 A. とりあえずググってください。
 
-Q. いいえ
+Q. いやだ
 
 A. あきらめてググってください。
 
@@ -35,3 +35,5 @@ LINEのBOTです。
 
 - LINE\_ACCESS\_TOKEN
 - LINE\_CHANNEL\_SECRET
+
+これらの値は[LINE developers](https://developers.line.me)に登録して、Messaging APIを登録すると貰えます。
